@@ -1,0 +1,6 @@
+Size = str(input('How big will your sandwich be small, medium, or large? '))
+print("Great choice!")
+Ingredients = str(input('What ingredients would you like in your sandwich? '))
+print("Great choice!")
+Bread = str(input('What type of bread would you like? '))
+print('Now enjoy your delicious sandwich!')
