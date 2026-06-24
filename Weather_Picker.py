@@ -30,4 +30,3 @@ if Weather not in ('sunny', 'Rainy', 'Snowy', 'Cloudy'):
 
 
 
-
